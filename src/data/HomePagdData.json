@@ -1,0 +1,316 @@
+{
+  "hero": {
+    "imgUrl": "/images/akash-1.png",
+    "name": "MD Akash Miah",
+    "heading": "Hay! I’m Akash",
+    "typingText": ["I'm a Developer", 1500, "I'm a  Designer", 1500],
+    "description": "Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment.",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:facebook-f",
+      "iconBgClass": "facebook",
+      "href": "https://www.facebook.com/abakash.khan.92"
+    },
+    {
+      "icon": "fa-brands:github",
+      "iconBgClass": "github",
+      "href": "https://github.com/akash-khan-dev"
+    },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/akash-khan-7b910a227/"
+    }
+  ],
+  "skill": {
+    "sectionHeading": {
+      "miniTitle": "My Skills",
+      "title": " We put your ideas and thus your wishes in the form of a unique web project that inspires you and you customers"
+    },
+
+    "skills": [
+      {
+        "src": "Skill/figma.svg",
+        "title": "Figma"
+      },
+      {
+        "src": "Skill/html.svg",
+        "title": "HTML"
+      },
+      {
+        "src": "Skill/css.svg",
+        "title": "CSS"
+      },
+      {
+        "src": "Skill/scss.svg",
+        "title": "SCSS"
+      },
+      {
+        "src": "Skill/tailwind.svg",
+        "title": "Tailwind CSS"
+      },
+      {
+        "src": "Skill/js.svg",
+        "title": "JavaScript"
+      },
+      {
+        "src": "Skill/react.svg",
+        "title": "React JS"
+      },
+      {
+        "src": "Skill/next.svg",
+        "title": "Next JS"
+      },
+      {
+        "src": "Skill/redux.svg",
+        "title": "Redux JS"
+      },
+      {
+        "src": "Skill/node.svg",
+        "title": "Node JS"
+      },
+      {
+        "src": "Skill/express.svg",
+        "title": "Express JS"
+      },
+      {
+        "src": "Skill/mongo.svg",
+        "title": "Mongo DB"
+      },
+      {
+        "src": "Skill/firebase.svg",
+        "title": "Firebase"
+      },
+      {
+        "src": "Skill/wp.svg",
+        "title": "Wordpress"
+      },
+      {
+        "src": "Skill/github.svg",
+        "title": "GitHub"
+      }
+    ]
+  },
+  "about": {
+    "imgSrc": "/images/about.png",
+    "miniTitle": "About Us",
+    "title": "I AM AVAILABLE FOR <span>Front-End Development</span> PROJECTS",
+    "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+    "funfacts": [
+      {
+        "title": "Google Review",
+        "number": 20
+      },
+      {
+        "title": "Years of Interest",
+        "number": 2
+      },
+      {
+        "title": "Awward Winning",
+        "number": 5
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/chattingApp.png",
+        "title": "Website Design",
+        "subTitle": "Web Design,",
+        "details": {
+          "title": "Website Design for Real time chat",
+          "description": "A JavaScript library for building user interfaces. A library for handling routing in React applications.A library for handling form state and validation in React applications A set of tools and conventions for using Redux in React applications. Firebase's cloud-based storage service for storing and serving user-uploaded files, such as images. Stores and syncs data in real-time between clients.",
+          "type": "Website",
+          "langages": "JavaScript, React, Firebase",
+          "platform": "VS Code",
+          "country": "Bangladesh",
+          "url": "https://chatting-application-theta.vercel.app/"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-2.jpg",
+        "title": "Website Design",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "USA",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-3.jpg",
+        "title": "Dashboard Design",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "USA",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-4.jpg",
+        "title": "Mobile App Design",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "USA",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-5.jpg",
+        "title": "Website Design",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "USA",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-6.jpg",
+        "title": "Website Design",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "USA",
+          "url": "www.example.com"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "Design <span>services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/thum1.jpg",
+        "title": "Website Design",
+        "subTitle": "Revamp your online presence with our expert website design service. Our team crafts sleek, modern layouts tailored to your brand. Let us bring your vision to life and make your website stand out!.",
+        "icon": "bi:brush-fill",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/thum2.jpg",
+        "title": "Website Development",
+        "subTitle": "Unlock your online potential with our expert website development service. We create bespoke websites tailored to your brand, driving success in the digital world.                           ",
+        "icon": "bi:code-square",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/thum3.jpg",
+        "title": "Full Stack Development",
+        "subTitle": "Empower your digital presence with our full-stack development service. From front-end design to back-end functionality, we deliver comprehensive solutions tailored to your needs, ensuring seamless performance across all platforms  .",
+        "icon": "bi:speedometer2",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/thum4.jpg",
+        "title": "Wordpress Web Service",
+        "subTitle": "Transform your website with our WordPress design service. Our team specializes in crafting visually stunning and user-friendly WordPress sites that reflect your brand's identity and captivate your audience.",
+        "icon": "bi:palette",
+        "ratings": 5
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Front-end Developer",
+        "company": "WELAB | REMOTE",
+        "duration": "JAN 2019 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ."
+      },
+      {
+        "designation": "Front-end Developer",
+        "company": "WELAB | REMOTE",
+        "duration": "JAN 2019 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ."
+      },
+      {
+        "designation": "Front-end Developer",
+        "company": "WELAB | REMOTE",
+        "duration": "JAN 2019 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ."
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>8,000+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-1.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-2.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-3.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/contact.jpg",
+    "contactInfo": [
+      { "title": "E-mail:", "email": "mdakashkhandev@gmail.com" },
+      { "title": "Phone No:", "tel": "01704801533" }
+    ]
+  }
+}
