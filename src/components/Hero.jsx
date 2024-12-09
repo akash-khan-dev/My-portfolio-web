@@ -1,5 +1,6 @@
 import { Icon } from "@iconify/react";
 import React from "react";
+import resumeFile from "../assets/akash.pdf";
 import { TypeAnimation } from "react-type-animation";
 import { Link as ScrollLink } from "react-scroll";
 import SocialBtns from "./SocialBtns";
@@ -7,6 +8,12 @@ import SocialBtns from "./SocialBtns";
 export default function Hero({ data, socialData }) {
   const { imgUrl, name, heading, typingText, description, btnText, btnUrl } =
     data;
+  const handleDownload = () => {
+    const tempLink = document.createElement("a");
+    tempLink.href = resumeFile;
+    tempLink.download = "akash-resume.pdf";
+    tempLink.click();
+  };
   return (
     <section className="home-section" id="home" data-scroll-index={0}>
       <div className="container">
@@ -50,18 +57,19 @@ export default function Hero({ data, socialData }) {
                 data-aos-delay="400"
               >
                 <ScrollLink
-                  to={btnUrl}
+                  onClick={handleDownload}
                   spy={true}
                   smooth={true}
                   offset={-80}
                   duration={500}
                   className="px-btn"
                 >
-                  <span>{btnText}</span>{" "}
+                  <span>{btnText}</span>
                   <i className="d-flex">
                     <Icon icon="bi:arrow-right" />
                   </i>
                 </ScrollLink>
+
                 <SocialBtns
                   socialBtns={socialData}
                   variant="ps-sm-4 pt-4 pt-sm-0 d-flex justify-content-center justify-content-sm-start"

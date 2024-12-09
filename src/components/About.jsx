@@ -29,7 +29,7 @@ export default function About({ data }) {
         </div>
         <div className="row align-items-center justify-content-center gy-5">
           <div
-            className="col-lg-6 col-xl-5"
+            className="col-lg-5 col-xl-5"
             data-aos="fade-right"
             data-aos-duration="1200"
             data-aos-delay="500"
@@ -38,7 +38,7 @@ export default function About({ data }) {
               <img style={{ width: "100%" }} src={imgSrc} alt="Thumb" />
             </div>
           </div>
-          <div className="col-lg-6 col-xl-5 px-lg-5">
+          <div className="col-lg-7 col-xl-5 ps-lg-4">
             <div
               className="about-text"
               data-aos="fade"

@@ -4,8 +4,8 @@
     "name": "MD Akash Miah",
     "heading": "Hay! I’m Akash",
     "typingText": ["I'm a Developer", 1500, "I'm a  Designer", 1500],
-    "description": "Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment.",
-    "btnText": "Get in touch",
+    "description": "Crafting modern, user-centric web experiences with precision and creativity. Passionate about turning innovative ideas into visually stunning, functional designs",
+    "btnText": "Resume",
     "btnUrl": "contactus"
   },
   "socialBtns": [
@@ -28,7 +28,7 @@
   "skill": {
     "sectionHeading": {
       "miniTitle": "My Skills",
-      "title": " We put your ideas and thus your wishes in the form of a unique web project that inspires you and you customers"
+      "title": " Skilled in the MERN stack and modern web technologies, building efficient and scalable solutions"
     },
 
     "skills": [
@@ -97,20 +97,12 @@
   "about": {
     "imgSrc": "/images/about.png",
     "miniTitle": "About Us",
-    "title": "I AM AVAILABLE FOR <span>Front-End Development</span> PROJECTS",
-    "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+    "title": "I AM AVAILABLE FOR <span>Front-End</span> and <span> Backend </span>Development PROJECTS",
+    "description": "I am a passionate MERN stack developer, skilled in building full-stack web applications with a focus on seamless user experiences. With expertise in MongoDB, Express.js, React.js, and Node.js, I specialize in developing scalable, efficient, and responsive applications. Whether it's crafting intuitive frontend designs or implementing robust backend solutions, my goal is to bring innovative ideas to life with cutting-edge technologies.",
     "funfacts": [
-      {
-        "title": "Google Review",
-        "number": 20
-      },
       {
         "title": "Years of Interest",
         "number": 2
-      },
-      {
-        "title": "Awward Winning",
-        "number": 5
       }
     ],
     "btnText": "Get in touch",
